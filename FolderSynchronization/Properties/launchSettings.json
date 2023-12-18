@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FolderSynchronization": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\migue\\source\\repos\\FolderSynchronization\\FolderSynchronization\\test\\source C:\\Users\\migue\\source\\repos\\FolderSynchronization\\FolderSynchronization\\test\\replica 10 C:\\Users\\migue\\source\\repos\\FolderSynchronization\\FolderSynchronization\\test\\logs\\logs.txt"
+    }
+  }
+}
